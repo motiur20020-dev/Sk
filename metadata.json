@@ -1,0 +1,6 @@
+{
+  "name": "Noor Muslim",
+  "description": "Your Daily Islamic Companion with Prayer Times, Quran, Qibla, Tasbih, Duas, and Ramadan Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
